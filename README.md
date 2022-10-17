@@ -5,7 +5,7 @@ This is going to include the following tech stack:
 1. Angular & React
 2. Java & Python
 3. Oracle SQL & MySQL
-4. AWS Console (Very important to complete the certification by early November.)
+4. AWS (Very important to complete the certification by early November. )
 
 As part of this, I am going to work on few more things. For example,
 
